@@ -312,7 +312,7 @@ public class realfinalproject {
             // Moleh Sek Bolo
             
             else if (menu == 4) {
-
+                break;
             } 
             
             // Seng nggenah lek ngelebokno angka, ojok kyk wong ndelosor ae
